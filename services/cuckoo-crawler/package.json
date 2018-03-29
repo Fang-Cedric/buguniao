@@ -1,0 +1,14 @@
+{
+  "name": "cuckoo-crawler",
+  "version": "1.0.0",
+  "description": "Crawler the info of all kinds of activities from Banks or other sources.",
+  "main": "cuckoo_crawler.js",
+  "scripts": {
+    "test": "cuckoo-crawler"
+  },
+  "author": "fangweiwei",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.1.2"
+  }
+}
